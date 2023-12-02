@@ -1,0 +1,1 @@
+/home/user/Programming/RustProgrammingLanguage/mini_grep/target/debug/mini_grep: /home/user/Programming/RustProgrammingLanguage/mini_grep/src/lib.rs /home/user/Programming/RustProgrammingLanguage/mini_grep/src/main.rs
